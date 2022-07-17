@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .clip {
+        clip-path: circle(98% at right -20%);
+    }
+    .clip-md {
+        clip-path: circle(81% at right -32%);
+    }
+    .clip-lg {
+        clip-path: circle(80% at right -30%);
+    }
+    .overflow-wrap {
+    overflow-wrap: break-word;
+    }
+}
