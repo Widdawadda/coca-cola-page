@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec818910.css",
-    "main.js": "/static/js/main.cdb6c402.js",
-    "static/media/cocacola6.png": "/static/media/cocacola6.358adb97ce611d64e79d.png",
-    "static/media/cocacola2.png": "/static/media/cocacola2.7b05aa4dac49c6feddc1.png",
-    "static/media/cocacola4.png": "/static/media/cocacola4.ceb0860b6bddc21e9af9.png",
-    "static/media/cocacola3.png": "/static/media/cocacola3.2f6e6e378201d08fc3d0.png",
-    "static/media/cocacola1.png": "/static/media/cocacola1.a392b223f6fc251966a7.png",
-    "static/media/cocacola5.png": "/static/media/cocacola5.3396ecda8049139d7538.png",
-    "index.html": "/index.html",
-    "main.ec818910.css.map": "/static/css/main.ec818910.css.map",
-    "main.cdb6c402.js.map": "/static/js/main.cdb6c402.js.map"
+    "main.css": "/coca-cola-page/static/css/main.ec818910.css",
+    "main.js": "/coca-cola-page/static/js/main.ea86e281.js",
+    "static/media/cocacola6.png": "/coca-cola-page/static/media/cocacola6.358adb97ce611d64e79d.png",
+    "static/media/cocacola2.png": "/coca-cola-page/static/media/cocacola2.7b05aa4dac49c6feddc1.png",
+    "static/media/cocacola4.png": "/coca-cola-page/static/media/cocacola4.ceb0860b6bddc21e9af9.png",
+    "static/media/cocacola3.png": "/coca-cola-page/static/media/cocacola3.2f6e6e378201d08fc3d0.png",
+    "static/media/cocacola1.png": "/coca-cola-page/static/media/cocacola1.a392b223f6fc251966a7.png",
+    "static/media/cocacola5.png": "/coca-cola-page/static/media/cocacola5.3396ecda8049139d7538.png",
+    "index.html": "/coca-cola-page/index.html",
+    "main.ec818910.css.map": "/coca-cola-page/static/css/main.ec818910.css.map",
+    "main.ea86e281.js.map": "/coca-cola-page/static/js/main.ea86e281.js.map"
   },
   "entrypoints": [
     "static/css/main.ec818910.css",
-    "static/js/main.cdb6c402.js"
+    "static/js/main.ea86e281.js"
   ]
 }
